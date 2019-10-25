@@ -1,0 +1,15 @@
+ion-toggle{
+    --background-checked: var(--ion-color-new-business-toggle);
+    border: 1px solid var(--ion-color-new-business-toggle);
+    border-radius: 20px;
+    --handle-background: var(--ion-color-light);
+}
+
+ion-button{
+    --box-shadow: none;
+    --color: var(--ion-color-light);
+    width: 250px;
+    height: 36px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}

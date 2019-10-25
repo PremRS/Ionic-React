@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">App</string>
+    <string name="title_activity_main">App</string>
+    <string name="package_name">com.ex.app</string>
+    <string name="fileprovider_authority">com.ex.app.fileprovider</string>
+    <string name="custom_url_scheme">com.ex.app</string>
+    <string name="facebook_app_id">412310169432316</string>
+    <string name="fb_login_protocol_scheme">fb412310169432316</string>
+</resources>

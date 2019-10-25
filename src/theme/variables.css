@@ -74,4 +74,46 @@ http://ionicframework.com/docs/theming/ */
   --ion-color-light-contrast-rgb: 0, 0, 0;
   --ion-color-light-shade: #d7d8da;
   --ion-color-light-tint: #f5f6f9;
+
+  
+  /** new-business-toggle **/
+  --ion-color-new-business-toggle: #2A9FD8;
+  --ion-color-new-business-toggle-rgb: 42,159,216;
+  --ion-color-new-business-toggle-contrast: #000000;
+  --ion-color-new-business-toggle-contrast-rgb: 0,0,0;
+  --ion-color-new-business-toggle-shade: #258cbe;
+  --ion-color-new-business-toggle-tint: #3fa9dc;
+
+  
+  /** new-business-button **/
+  --ion-color-new-business-button: #008acc;
+  --ion-color-new-business-button-rgb: 0,138,204;
+  --ion-color-new-business-button-contrast: #ffffff;
+  --ion-color-new-business-button-contrast-rgb: 255,255,255;
+  --ion-color-new-business-button-shade: #0079b4;
+  --ion-color-new-business-button-tint: #1a96d1;
+
+}
+
+.ios {
+  --ion-background-color: #ffffff;
+  --ion-toolbar-color: #222;
+}
+
+/* .ion-color-new-business-toggle {
+  --ion-color-base: var(--ion-color-new-business-toggle);
+  --ion-color-base-rgb: var(--ion-color-new-business-toggle-rgb);
+  --ion-color-contrast: var(--ion-color-new-business-toggle-contrast);
+  --ion-color-contrast-rgb: var(--ion-color-new-business-toggle-contrast-rgb);
+  --ion-color-shade: var(--ion-color-new-business-toggle-shade);
+  --ion-color-tint: var(--ion-color-new-business-toggle-tint);
+} */
+
+.ion-color-new-business-button {
+  --ion-color-base: var(--ion-color-new-business-button);
+  --ion-color-base-rgb: var(--ion-color-new-business-button-rgb);
+  --ion-color-contrast: var(--ion-color-new-business-button-contrast);
+  --ion-color-contrast-rgb: var(--ion-color-new-business-button-contrast-rgb);
+  --ion-color-shade: var(--ion-color-new-business-button-shade);
+  --ion-color-tint: var(--ion-color-new-business-button-tint);
 }
